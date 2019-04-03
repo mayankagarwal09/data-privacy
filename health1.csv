@@ -1,0 +1,119 @@
+,Unnamed: 0,Id,Name,Gender,Age,Hypertension,Heart Disease,Work Type,Glucose,BMI,Smoking Status
+0,0,30669,*,Male,<15,0,0,children,107.25,16.7,formerly smoked
+1,2,16523,*,Female,15-25,0,0,Private,121.8,20.9,smokes
+2,4,46136,*,Male,<15,0,0,children,66.3,16.7,never smoked
+3,16,19584,*,Female,<15,0,0,children,91.45,18.0,never smoked
+4,25,70336,*,Female,25-40,0,0,Private,70.34,27.6,nan
+5,30,67210,*,Male,25-40,0,0,Govt_job,138.29,24.3,nan
+6,33,33759,*,Female,<15,0,0,children,77.88,21.0,nan
+7,36,65460,*,Female,15-25,0,0,Self-employed,120.31,23.4,smokes
+8,39,70970,*,Female,15-25,0,0,Private,98.7,22.3,nan
+9,41,55680,*,Male,15-25,0,0,Private,84.59,26.4,nan
+10,42,11014,*,Male,25-40,0,0,Self-employed,89.99,25.9,formerly smoked
+11,43,44338,*,Female,15-25,0,0,children,106.22,19.5,nan
+12,43,44338,*,Female,<15,0,0,children,115.03,20.5,never smoked
+13,215,34376,*,Female,<15,0,0,children,85.79,20.0,never smoked
+14,215,34376,*,Female,15-25,0,0,Private,80.33,27.3,never smoked
+15,45,34974,*,Female,25-40,0,0,Govt_job,75.29,24.6,smokes
+16,55,41648,*,Male,<15,0,0,children,80.05,16.1,never smoked
+17,64,68249,*,Female,15-25,0,0,Private,76.26,24.2,never smoked
+18,71,1686,*,Female,<15,0,0,children,100.52,18.3,nan
+19,72,22284,*,Male,<15,0,0,children,59.49,21.6,formerly smoked
+20,73,39038,*,Male,<15,0,0,children,63.26,18.4,smokes
+21,74,21956,*,Female,25-40,0,0,Private,75.22,22.3,nan
+22,76,30171,*,Male,25-40,0,0,Self-employed,110.15,25.0,nan
+23,80,29865,*,Female,25-40,0,0,Private,103.56,27.0,nan
+24,85,21130,*,Male,25-40,0,0,Private,86.11,21.4,nan
+25,88,28799,*,Male,25-40,0,0,Private,95.59,21.9,never smoked
+26,98,9487,*,Female,<15,0,0,children,129.53,21.2,never smoked
+27,101,28102,*,Female,25-40,0,0,Private,82.0,26.7,never smoked
+28,107,21284,*,Female,15-25,0,0,children,82.18,19.5,never smoked
+29,112,46785,*,Female,<15,0,0,children,64.64,19.2,never smoked
+30,122,8171,*,Female,<15,0,0,children,229.92,23.2,smokes
+31,124,43232,*,Female,<15,0,0,children,102.64,17.0,smokes
+32,124,43232,*,Female,<15,0,0,children,71.43,18.0,nan
+33,303,36331,*,Male,25-40,0,0,Private,95.1,25.4,formerly smoked
+34,303,36331,*,Male,15-25,0,0,children,82.58,19.5,nan
+35,126,34402,*,Female,25-40,0,0,Private,71.89,24.2,never smoked
+36,130,71539,*,Male,<15,0,0,children,72.36,15.3,nan
+37,131,28637,*,Female,15-25,0,0,Private,73.2,24.2,nan
+38,133,31741,*,Male,15-25,0,0,Private,207.58,27.7,smokes
+39,136,22537,*,Male,15-25,0,0,Private,99.92,21.4,never smoked
+40,137,50611,*,Male,25-40,0,0,Private,70.78,22.6,smokes
+41,145,9637,*,Male,<15,0,0,Private,125.26,23.2,never smoked
+42,154,65357,*,Female,<15,0,0,children,114.84,17.7,nan
+43,155,49465,*,Female,<15,0,0,Private,113.47,23.2,nan
+44,164,54975,*,Male,<15,0,0,children,64.06,24.2,nan
+45,168,10913,*,Male,15-25,0,0,Private,67.06,24.2,nan
+46,170,27029,*,Female,<15,0,0,Never_worked,73.74,19.1,never smoked
+47,172,45719,*,Female,25-40,0,0,Private,149.95,25.9,never smoked
+48,173,129,*,Female,<15,0,0,children,62.6,16.3,formerly smoked
+49,175,530,*,Female,15-25,0,0,Private,110.63,27.1,nan
+50,179,6107,*,Female,15-25,0,0,Private,104.48,26.2,never smoked
+51,185,3655,*,Male,15-25,0,0,Private,182.86,22.8,nan
+52,191,5010,*,Female,15-25,0,0,Never_worked,91.65,18.7,formerly smoked
+53,194,56681,*,Female,15-25,0,0,Private,122.22,25.1,nan
+54,197,61350,*,Male,15-25,0,0,Private,55.39,21.7,nan
+55,199,61465,*,Male,15-25,0,0,Private,92.14,24.5,never smoked
+56,199,61465,*,Male,15-25,0,0,Private,93.25,24.4,nan
+57,209,7351,*,Male,25-40,0,0,Private,84.59,23.5,smokes
+58,209,7351,*,Male,<15,0,0,children,161.28,23.1,never smoked
+59,205,46436,*,Male,15-25,0,0,Private,108.79,24.2,nan
+60,213,48272,*,Female,25-40,0,0,Private,138.06,25.2,nan
+61,214,2893,*,Female,<15,0,0,children,79.17,23.2,nan
+62,218,8595,*,Male,25-40,0,0,Private,85.84,27.4,nan
+63,224,46474,*,Male,<15,0,0,children,100.09,17.1,never smoked
+64,225,69687,*,Female,<15,0,0,children,98.01,20.3,nan
+65,230,63050,*,Male,25-40,0,0,Private,55.25,26.4,never smoked
+66,234,11974,*,Male,<15,0,0,children,60.5,16.5,formerly smoked
+67,237,41523,*,Male,15-25,0,0,Private,96.17,20.4,nan
+68,240,50441,*,Male,<15,0,0,children,122.31,24.4,never smoked
+69,241,16927,*,Male,25-40,0,0,Private,72.35,22.1,nan
+70,251,37832,*,Female,15-25,0,0,Private,113.47,25.1,nan
+71,269,31279,*,Male,25-40,0,0,Private,116.38,23.2,formerly smoked
+72,275,22622,*,Male,15-25,0,0,Self-employed,92.14,22.2,never smoked
+73,281,29933,*,Female,15-25,0,0,Self-employed,74.02,21.0,never smoked
+74,289,31564,*,Female,15-25,0,0,Private,79.81,22.0,nan
+75,293,56998,*,Female,<15,0,0,children,93.88,18.3,never smoked
+76,304,42359,*,Male,<15,0,0,children,94.26,19.5,never smoked
+77,305,20751,*,Female,15-25,0,0,children,163.7,19.5,nan
+78,312,60902,*,Male,15-25,0,0,Private,88.39,21.6,never smoked
+79,316,29010,*,Male,15-25,0,0,Govt_job,97.55,20.8,never smoked
+80,318,44912,*,Male,15-25,0,0,Private,95.12,19.7,never smoked
+81,335,56179,*,Male,15-25,0,0,Private,90.58,19.7,never smoked
+82,340,44315,*,Male,<15,0,0,children,110.63,20.9,nan
+83,341,68245,*,Female,25-40,0,0,Private,95.12,28.1,never smoked
+84,343,47732,*,Male,15-25,0,0,Self-employed,73.0,23.4,never smoked
+85,347,15311,*,Female,15-25,0,0,Private,60.84,22.1,never smoked
+86,352,59807,*,Female,<15,0,0,children,85.06,20.0,never smoked
+87,357,31090,*,Male,25-40,0,0,Private,74.98,25.1,never smoked
+88,359,8544,*,Female,15-25,0,0,Private,94.92,23.6,never smoked
+89,362,61408,*,Male,<15,0,0,children,114.32,16.4,smokes
+90,363,33552,*,Male,15-25,0,0,Private,205.5,24.2,never smoked
+91,364,31364,*,Male,<15,0,0,children,55.39,21.3,nan
+92,368,27794,*,Male,15-25,0,0,Private,92.23,25.8,never smoked
+93,387,48144,*,Female,<15,0,0,children,59.82,17.2,never smoked
+94,393,2532,*,Male,<15,0,0,children,59.17,18.6,nan
+95,399,34363,*,Female,<15,0,0,children,94.59,12.0,nan
+96,400,23650,*,Male,<15,0,0,children,70.16,17.7,never smoked
+97,415,41927,*,Female,25-40,0,0,Private,130.34,20.0,never smoked
+98,417,20364,*,Female,<15,0,0,children,86.86,25.4,never smoked
+99,428,62999,*,Male,<15,0,0,children,89.44,16.0,smokes
+100,435,22870,*,Male,15-25,0,0,Private,84.62,27.2,smokes
+101,437,57523,*,Female,<15,0,0,children,92.48,16.8,nan
+102,440,68131,*,Female,25-40,0,0,Private,98.09,27.7,smokes
+103,442,54182,*,Female,<15,0,0,children,80.05,13.8,never smoked
+104,443,61300,*,Male,25-40,0,0,Private,90.69,22.8,nan
+105,446,28848,*,Male,15-25,0,0,Govt_job,85.6,26.2,nan
+106,453,12593,*,Female,<15,0,0,children,122.1,20.5,smokes
+107,456,45796,*,Female,15-25,0,0,Private,87.51,23.5,nan
+108,457,31840,*,Female,<15,0,0,children,90.65,19.0,nan
+109,459,14391,*,Female,25-40,0,0,Private,91.97,23.7,formerly smoked
+110,470,49086,*,Female,<15,0,0,children,79.03,19.3,nan
+111,478,40791,*,Female,<15,0,0,children,89.63,18.7,smokes
+112,482,19234,*,Female,<15,0,0,children,63.69,25.5,smokes
+113,483,52454,*,Male,<15,0,0,children,70.34,16.6,nan
+114,489,16575,*,Male,<15,0,0,children,110.89,19.7,never smoked
+115,491,11176,*,Male,<15,0,0,Self-employed,85.02,18.9,smokes
+116,494,9612,*,Male,<15,0,0,Private,69.94,17.6,nan
+117,497,41513,*,Female,15-25,0,0,Private,82.9,21.9,never smoked

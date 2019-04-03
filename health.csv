@@ -1,0 +1,501 @@
+,Id,Name,Gender,Age,Hypertension,Heart Disease,Work Type,Glucose,BMI,Smoking Status
+0,30669,Lavera,Male,3,0,0,children,95.12,18.0,never smoked
+1,30468,Florinda  ,Male,58,1,0,Private,87.96,39.2,never smoked
+2,16523,Zoe  ,Female,8,0,0,Private,110.89,17.6,never smoked
+3,56543,Shanae  ,Female,70,0,0,Private,69.04,35.9,formerly smoked
+4,46136,Colleen  ,Male,14,0,0,Never_worked,161.28,19.1,never smoked
+5,32257,Aleisha  ,Female,47,0,0,Private,210.95,50.1,never smoked
+6,52800,Camie  ,Female,52,0,0,Private,77.59,17.7,formerly smoked
+7,41413,Rosann  ,Female,75,0,1,Self-employed,243.53,27.0,never smoked
+8,15266,Brenna  ,Female,32,0,0,Private,77.67,32.3,smokes
+9,28674,Etta  ,Female,74,1,0,Self-employed,205.84,54.6,never smoked
+10,10460,Lorie  ,Female,79,0,0,Govt_job,77.08,35.0,never smoked
+11,64908,Audry  ,Male,79,0,1,Private,57.08,22.0,formerly smoked
+12,63884,Lida  ,Female,37,0,0,Private,162.96,39.4,never smoked
+13,37893,Nickole  ,Female,37,0,0,Private,73.5,26.1,formerly smoked
+14,67855,Shanika  ,Female,40,0,0,Private,95.04,42.4,never smoked
+15,25774,Tyisha  ,Male,35,0,0,Private,85.37,33.0,never smoked
+16,19584,Daria  ,Female,20,0,0,Private,84.62,19.7,smokes
+17,24447,Sacha  ,Female,42,0,0,Private,82.67,22.5,never smoked
+18,49589,Linnie  ,Female,44,0,0,Govt_job,57.33,24.6,smokes
+19,17986,Valentin  ,Female,79,0,1,Self-employed,67.84,25.2,smokes
+20,29217,Rena  ,Female,65,1,0,Private,75.7,41.8,never smoked
+21,72911,Luke  ,Female,57,1,0,Private,129.54,60.9,smokes
+22,47175,Cordie  ,Female,49,0,0,Private,60.22,31.5,smokes
+23,4057,Diego  ,Male,71,0,0,Private,198.21,27.3,formerly smoked
+24,48588,Shae  ,Female,59,0,0,Private,109.82,23.7,never smoked
+25,70336,Claretta  ,Female,25,0,0,Private,60.84,24.5,never smoked
+26,66767,Hugo  ,Female,67,0,0,Govt_job,94.61,28.4,smokes
+27,45801,Mellissa  ,Female,38,0,0,Private,97.49,26.9,never smoked
+28,36275,Trula  ,Female,54,0,0,Private,206.72,26.7,never smoked
+29,11577,Solange  ,Female,70,0,0,Self-employed,214.45,31.2,never smoked
+30,67210,Dianne  ,Male,27,0,0,Self-employed,82.9,25.0,never smoked
+31,29908,Kacy  ,Female,47,0,0,Private,103.26,25.4,never smoked
+32,45222,Fermin  ,Male,58,1,0,Private,55.78,27.5,smokes
+33,33759,Tressa  ,Female,3,0,0,children,73.74,16.0,never smoked
+34,40311,Barton  ,Female,58,0,0,Private,149.75,27.0,never smoked
+35,26325,Tabetha  ,Male,14,0,0,Govt_job,82.34,31.6,never smoked
+36,65460,Ruthann  ,Female,32,0,0,Private,62.6,25.1,formerly smoked
+37,36811,Caterina  ,Female,23,0,0,Private,94.09,30.9,never smoked
+38,71750,Pricilla  ,Female,55,0,0,Private,55.42,24.8,never smoked
+39,70970,Arianne  ,Female,17,0,0,Self-employed,82.18,23.4,never smoked
+40,42203,Majorie  ,Male,59,0,0,Private,117.92,29.4,smokes
+41,55680,Renata  ,Male,13,0,0,children,114.84,18.3,
+42,11014,Sherilyn  ,Male,4,0,0,children,79.17,20.0,
+43,44338,Chang  ,Female,16,0,0,children,110.63,19.5,
+44,20980,Carley  ,Male,67,0,0,Private,190.7,36.0,formerly smoked
+45,34974,Blake  ,Female,22,0,0,Private,79.81,27.7,
+46,71379,Frank  ,Female,45,0,0,Govt_job,113.63,27.5,smokes
+47,58261,Kip  ,Female,66,0,0,Private,141.24,28.5,never smoked
+48,67318,Toccara  ,Male,58,1,0,Govt_job,56.96,26.8,smokes
+49,28526,Darcy  ,Male,69,0,0,Self-employed,203.04,33.6,never smoked
+50,8831,Luther  ,Female,58,0,0,Private,94.3,29.1,
+51,65199,Sharla  ,Female,53,0,0,Self-employed,81.51,28.5,
+52,43454,Tonita  ,Female,78,0,0,Self-employed,137.74,34.9,formerly smoked
+53,7282,Abe  ,Male,44,0,0,Private,81.84,25.1,never smoked
+54,18518,Moses  ,Male,66,0,0,Private,242.3,35.3,smokes
+55,41648,Merissa  ,Male,27,0,0,Private,102.64,26.4,smokes
+56,49003,Erica  ,Male,43,0,0,Private,146.01,31.5,smokes
+57,16371,Shenika  ,Female,13,0,0,children,75.42,40.1,
+58,42807,Jean  ,Male,51,0,0,Govt_job,220.49,43.1,
+59,40181,Deidra  ,Female,30,0,0,Private,61.45,36.7,smokes
+60,66174,Merrilee  ,Male,46,0,0,Self-employed,88.19,29.3,formerly smoked
+61,45538,Genia  ,Female,43,0,0,Self-employed,115.22,21.2,
+62,6319,Tam  ,Female,79,0,0,Private,97.93,31.2,
+63,9046,Hazel  ,Male,67,0,1,Private,228.69,36.6,formerly smoked
+64,68249,Constance  ,Female,27,0,0,Private,85.6,21.4,
+65,55232,Carlyn  ,Female,38,0,0,Private,79.83,27.9,smokes
+66,11120,Zina  ,Female,78,1,0,Private,218.46,34.3,never smoked
+67,41940,Keri  ,Male,57,0,1,Private,62.2,31.0,formerly smoked
+68,72214,Marth  ,Male,61,0,0,Self-employed,69.15,27.7,formerly smoked
+69,37089,Dylan  ,Female,37,1,0,Self-employed,127.71,36.0,never smoked
+70,68614,Lauretta  ,Female,48,0,0,Private,216.7,38.7,formerly smoked
+71,1686,Delora  ,Female,29,0,0,Private,71.89,27.6,never smoked
+72,22284,Dong  ,Male,22,0,0,Private,103.56,25.1,
+73,39038,Celine  ,Male,11,0,0,children,79.03,16.5,
+74,21956,Jack  ,Female,22,0,0,Private,69.94,22.8,
+75,52134,Estefana  ,Male,53,0,0,Private,90.12,35.4,
+76,30171,Ervin  ,Male,27,0,0,Govt_job,95.1,24.3,formerly smoked
+77,4480,Monet  ,Male,76,0,0,Private,234.58,34.3,formerly smoked
+78,2982,Carol  ,Female,57,1,0,Private,235.85,40.1,never smoked
+79,65535,Shamika  ,Male,8,0,0,children,78.05,25.7,
+80,29865,Bernie  ,Female,21,0,0,Private,89.44,21.9,smokes
+81,51676,Estrella  ,Female,61,0,0,Self-employed,202.21,22.6,never smoked
+82,54918,Terisa  ,Female,18,0,0,Private,111.38,38.4,smokes
+83,59368,Marinda  ,Female,78,0,0,Private,243.5,26.1,never smoked
+84,65836,Everett  ,Female,78,1,0,Private,182.2,30.5,formerly smoked
+85,21130,Tanika  ,Male,33,0,0,Self-employed,229.92,25.9,smokes
+86,1703,Fredda  ,Female,52,0,0,Private,82.24,54.7,formerly smoked
+87,16934,Paz  ,Female,51,0,0,Self-employed,89.84,29.9,
+88,28799,Gilberte  ,Male,11,0,0,children,90.69,18.6,
+89,32689,Penni  ,Female,48,0,0,Private,84.38,27.1,
+90,56357,Delena  ,Female,82,0,1,Private,215.6,24.9,never smoked
+91,18051,Arlyne  ,Female,54,0,0,Govt_job,91.61,25.2,never smoked
+92,40840,Kerri  ,Female,49,0,0,Private,138.16,19.4,never smoked
+93,10449,Merna  ,Female,24,0,0,Private,75.23,29.0,never smoked
+94,38805,Chin  ,Female,37,0,0,Private,75.18,48.2,formerly smoked
+95,31091,Dustin  ,Male,34,0,1,Private,106.23,31.7,formerly smoked
+96,45053,Chantel  ,Male,64,0,0,Govt_job,239.64,34.6,formerly smoked
+97,61837,Jeanice  ,Female,66,0,0,Self-employed,58.95,24.6,never smoked
+98,9487,Jazmin  ,Female,23,0,0,Private,99.92,25.8,never smoked
+99,49713,Kendall  ,Male,68,0,0,Private,116.23,26.1,never smoked
+100,17608,Tomoko  ,Female,55,0,0,Govt_job,118.82,29.0,formerly smoked
+101,28102,Sabine  ,Female,25,0,0,Private,66.3,27.2,never smoked
+102,1506,Gaynell  ,Female,48,0,0,Govt_job,101.41,20.7,smokes
+103,28333,Delinda  ,Female,79,1,1,Self-employed,200.28,30.0,formerly smoked
+104,62608,Johnnie  ,Female,47,0,0,Private,136.8,37.3,never smoked
+105,40670,Judson  ,Female,20,0,0,Private,96.57,34.1,never smoked
+106,4630,Rebeca  ,Female,60,0,0,Private,66.42,23.6,never smoked
+107,21284,Chang  ,Female,32,0,0,Private,98.09,25.2,smokes
+108,49421,Minh  ,Female,66,1,0,Private,205.23,39.5,never smoked
+109,5973,Sherill  ,Male,43,0,0,Private,86.78,23.5,smokes
+110,42996,Shari  ,Female,36,0,0,Govt_job,126.82,23.3,never smoked
+111,66333,Eleni  ,Male,52,0,0,Self-employed,78.4,64.8,never smoked
+112,46785,Renee  ,Female,29,0,0,Private,63.69,28.1,smokes
+113,54312,Ciera  ,Female,76,1,0,Self-employed,209.58,32.5,never smoked
+114,21408,Katlyn  ,Female,39,0,0,Self-employed,89.86,24.4,never smoked
+115,49916,Inger  ,Male,76,0,0,Private,110.99,29.8,formerly smoked
+116,7559,Nada  ,Female,64,0,0,children,83.82,24.9,
+117,71038,Roselia  ,Male,34,0,0,Private,137.96,35.1,
+118,69037,Jaye  ,Female,72,0,0,Private,210.78,32.3,formerly smoked
+119,58617,Mozell  ,Female,43,0,0,Self-employed,118.89,43.6,never smoked
+120,69064,Manie  ,Female,57,0,0,Self-employed,72.55,21.0,never smoked
+121,9404,Darline  ,Female,44,0,0,Private,107.41,47.3,never smoked
+122,8171,Kaley  ,Female,4,0,0,children,93.25,16.6,
+123,28286,Enriqueta  ,Male,44,0,0,Private,74.91,37.5,never smoked
+124,43232,Lissa  ,Female,18,0,0,Private,80.05,24.2,never smoked
+125,10159,Alpha  ,Male,41,0,0,Private,99.8,31.6,never smoked
+126,34402,Onie  ,Female,23,0,0,Private,91.97,21.6,formerly smoked
+127,58282,Bryan  ,Female,53,0,0,Govt_job,64.4,31.0,smokes
+128,64489,Millie  ,Male,56,0,0,Govt_job,73.02,31.1,never smoked
+129,22706,Velma  ,Female,88,0,0,children,88.11,15.5,
+130,71539,Illa  ,Male,25,0,0,Private,138.29,27.3,
+131,28637,Dorthea  ,Female,14,0,0,children,72.36,20.5,
+132,64553,Marceline  ,Female,53,0,0,Private,68.76,35.6,formerly smoked
+133,31741,Leena  ,Male,4,0,0,children,106.22,16.7,
+134,69936,Jaimee  ,Female,39,0,0,Private,101.52,41.8,never smoked
+135,46527,Arnetta  ,Male,53,1,1,Govt_job,109.51,41.9,never smoked
+136,22537,Judith  ,Male,5,0,0,children,85.84,16.4,
+137,50611,Karie  ,Male,4,0,0,children,110.15,17.1,
+138,13547,Alina  ,Female,37,0,0,Private,91.72,29.2,never smoked
+139,63732,Esmeralda  ,Male,70,1,0,Self-employed,251.6,27.1,never smoked
+140,9608,Eliseo  ,Male,24,0,0,Private,123.1,37.9,never smoked
+141,31112,Lacie  ,Male,80,0,1,Private,105.92,32.5,never smoked
+142,10504,Ora  ,Male,55,0,0,Govt_job,97.4,44.6,formerly smoked
+143,37090,Joetta  ,Female,70,0,0,Private,68.34,22.8,formerly smoked
+144,60148,Adell  ,Male,34,0,0,Private,80.81,33.2,never smoked
+145,9637,Vivan  ,Male,26,0,0,Private,120.31,22.3,smokes
+146,44862,Madelaine  ,Female,39,0,0,Private,83.51,26.4,never smoked
+147,52173,Janett  ,Male,38,0,0,Self-employed,74.09,39.6,never smoked
+148,5708,Meryl  ,Female,20,0,0,Private,91.6,28.1,never smoked
+149,23462,Monty  ,Female,17,0,0,Private,87.52,39.2,never smoked
+150,2374,Michele  ,Male,60,1,0,Private,213.37,36.0,never smoked
+151,11091,Kathrin  ,Female,75,0,0,Self-employed,75.39,37.8,never smoked
+152,70374,Larue  ,Female,31,0,0,Private,122.41,40.3,smokes
+153,15528,Melina  ,Male,58,1,0,Private,223.36,41.5,formerly smoked
+154,65357,Delaine  ,Female,5,0,0,children,84.59,17.7,
+155,49465,Lorinda  ,Female,13,0,0,children,70.16,21.2,never smoked
+156,31143,Eleanora  ,Female,22,0,0,Private,107.52,41.6,
+157,66972,Cherelle  ,Female,52,0,0,Govt_job,80.88,23.8,smokes
+158,55810,Lue  ,Female,61,0,0,Self-employed,93.48,23.7,
+159,37031,Talitha  ,Female,78,0,1,Govt_job,70.21,24.8,never smoked
+160,34608,Loma  ,Male,57,0,0,Private,86.67,39.0,
+161,36007,Helaine  ,Female,21,0,0,Private,101.37,37.9,never smoked
+162,14123,Marisol  ,Female,22,0,0,Private,105.22,31.1,never smoked
+163,48298,Chanda  ,Female,80,0,0,Private,70.31,23.2,
+164,54975,Zenobia  ,Male,7,0,0,Self-employed,64.06,18.9,
+165,27213,Kerri  ,Male,64,1,0,Self-employed,178.29,36.1,never smoked
+166,44749,Lashunda  ,Female,64,0,0,Govt_job,81.6,36.3,smokes
+167,46468,Signe  ,Female,38,0,0,Self-employed,147.48,40.5,
+168,10913,Izetta  ,Male,12,0,0,children,86.86,25.4,never smoked
+169,51983,Kyoko  ,Female,33,0,0,Private,71.16,46.5,smokes
+170,27029,Barabara  ,Female,3,0,0,children,73.2,16.8,
+171,22320,Una  ,Female,37,0,0,Private,203.81,46.6,never smoked
+172,45719,Davida  ,Female,22,0,0,Private,82.0,26.4,never smoked
+173,129,Cornelia  ,Female,24,0,0,Private,97.55,26.2,never smoked
+174,20351,Nia  ,Male,75,0,0,Govt_job,94.29,35.2,
+175,530,Verda  ,Female,12,0,0,children,75.22,20.9,
+176,55351,Alana  ,Male,63,0,0,Private,90.07,36.8,
+177,67431,Yuki  ,Female,52,0,0,Private,73.73,34.4,formerly smoked
+178,20546,Kirstin  ,Female,68,0,0,Private,79.58,22.2,never smoked
+179,6107,Christinia  ,Female,5,0,0,children,77.88,13.8,
+180,50305,Linda  ,Female,56,1,0,Private,205.26,40.3,never smoked
+181,52342,Kai  ,Female,43,0,0,Private,58.63,28.4,smokes
+182,59906,Bulah  ,Female,40,0,0,Private,139.9,31.7,smokes
+183,59729,Shawna  ,Male,53,0,0,Private,211.03,34.2,formerly smoked
+184,53144,Meda  ,Female,52,0,1,Private,72.79,54.7,never smoked
+185,3655,Athena  ,Male,31,0,0,Govt_job,91.65,24.6,formerly smoked
+186,11999,Angella  ,Female,63,0,0,Govt_job,79.92,21.0,smokes
+187,12985,Jerri  ,Female,69,0,0,Self-employed,225.47,36.9,never smoked
+188,38119,Denice  ,Male,64,0,0,Govt_job,94.48,31.1,never smoked
+189,3355,Mignon  ,Female,64,0,0,Private,82.34,31.9,never smoked
+190,22091,Wen  ,Female,62,0,0,Self-employed,180.63,31.8,formerly smoked
+191,5010,Viva  ,Female,2,0,0,children,92.48,18.0,
+192,67177,Joie  ,Male,53,0,0,Private,116.66,28.5,formerly smoked
+193,58600,Isabelle  ,Male,65,1,0,Private,112.09,29.5,never smoked
+194,56681,Cecily  ,Female,22,0,0,Private,130.34,22.0,never smoked
+195,56716,Charlene  ,Female,26,0,0,Private,82.59,29.4,never smoked
+196,65946,Tamiko  ,Male,53,0,0,Private,123.87,28.8,
+197,61350,Ayana  ,Male,20,0,0,Govt_job,98.7,26.2,
+198,17291,Jackqueline  ,Female,63,1,0,Self-employed,227.1,26.9,
+199,61465,Winnifred  ,Male,13,0,0,children,55.39,23.2,
+200,18108,Karen,Male,21,0,0,Govt_job,66.07,27.9,
+201,48368,Rhonda,Female,65,0,0,Self-employed,104.21,36.8,never smoked
+202,36471,Connor,Male,65,0,0,Private,145.15,28.9,
+203,15689,Iona,Male,42,0,0,Govt_job,68.19,31.0,never smoked
+204,8233,Joan,Male,72,0,1,Self-employed,97.53,29.4,smokes
+205,46436,Adrienne,Male,13,0,0,children,122.31,15.3,never smoked
+206,23221,Remedios,Male,29,0,0,Private,83.51,37.1,never smoked
+207,31830,Meghan,Male,59,0,0,Self-employed,86.46,30.5,
+208,15296,Kameko,Female,42,0,0,Private,112.06,38.2,never smoked
+209,7351,Jakeem,Male,13,0,0,Private,92.14,23.2,never smoked
+210,66196,Shana,Male,75,0,1,Private,201.76,30.2,formerly smoked
+211,17718,Kieran,Female,33,1,0,Private,74.44,45.2,smokes
+212,31164,Plato,Female,43,0,0,Private,95.93,21.8,
+213,48272,Paloma,Female,11,0,0,children,87.51,24.4,
+214,2893,Akeem,Female,7,0,0,children,72.35,17.0,
+215,34376,Xantha,Female,16,0,0,children,113.47,19.5,
+216,18498,Joel,Female,44,0,0,Private,103.78,49.8,formerly smoked
+217,56735,Ryder,Female,78,0,0,Self-employed,115.43,27.8,never smoked
+218,8595,Idona,Male,25,0,0,Private,95.59,25.1,never smoked
+219,621,Adrienne,Male,69,0,0,Private,101.52,26.8,smokes
+220,1307,Judah,Female,61,1,0,Private,170.05,60.2,smokes
+221,35846,Thane,Female,43,1,0,Self-employed,217.3,27.5,never smoked
+222,28645,Keane,Female,38,1,0,Private,196.01,28.1,never smoked
+223,5835,Deacon,Male,68,0,0,Private,92.21,27.3,
+224,46474,Ahmed,Male,26,0,0,Private,100.09,27.4,never smoked
+225,69687,Lana,Female,18,0,0,Self-employed,93.88,22.2,never smoked
+226,2953,Regan,Female,43,0,0,Private,75.05,22.9,smokes
+227,11838,Curran,Female,43,0,0,Govt_job,70.08,26.6,never smoked
+228,9179,Hamish,Female,32,0,0,Private,74.2,23.0,smokes
+229,38165,Sylvester,Female,81,0,0,Private,69.01,32.6,never smoked
+230,63050,Lance,Male,25,0,0,Private,96.17,22.1,
+231,22470,Gay,Male,61,0,0,Govt_job,184.15,22.9,
+232,71585,Montana,Female,66,0,0,Govt_job,87.24,25.7,formerly smoked
+233,15649,Castor,Male,54,1,0,Private,198.69,24.0,smokes
+234,11974,Asher,Male,11,0,0,children,82.58,25.5,
+235,3009,Nadine,Female,53,0,0,Self-employed,96.88,31.4,
+236,32361,Molly,Female,78,0,1,Self-employed,73.32,26.0,
+237,41523,Willa,Male,9,0,0,children,94.59,20.0,
+238,53910,Caryn,Female,48,0,0,Self-employed,132.08,31.6,smokes
+239,67548,Akeem,Female,31,0,0,Private,98.99,31.2,never smoked
+240,50441,Deirdre,Male,20,0,0,Private,104.48,21.7,never smoked
+241,16927,Helen,Male,21,0,0,Private,98.01,24.2,
+242,28265,Graham,Female,42,0,0,Self-employed,79.14,25.0,formerly smoked
+243,33404,Linus,Male,35,0,0,Private,89.32,36.7,
+244,50965,Vera,Male,53,0,0,Private,65.24,28.9,
+245,21077,Aladdin,Male,60,0,0,Private,80.98,29.7,formerly smoked
+246,12982,Cathleen,Male,74,0,0,Self-employed,186.17,44.3,
+247,66570,Robin,Female,23,0,0,Private,69.24,51.0,never smoked
+248,29158,Mary,Female,55,0,0,Private,111.19,39.7,formerly smoked
+249,34299,Ariana,Female,71,0,0,Private,93.28,34.7,never smoked
+250,54375,Reese,Male,5,0,0,children,122.19,35.0,
+251,37832,Drew,Female,14,0,0,children,129.53,21.3,never smoked
+252,21058,Yeo,Female,15,0,0,children,114.53,29.1,
+253,7696,Hammett,Female,66,0,0,Private,93.73,23.9,smokes
+254,34668,Samantha,Female,56,0,0,Private,77.49,36.0,formerly smoked
+255,68483,Calvin,Female,60,0,0,Private,65.38,41.2,formerly smoked
+256,6072,Hunter,Female,57,0,0,Private,94.18,27.1,never smoked
+257,60182,Preston,Female,49,0,0,Private,171.23,34.4,smokes
+258,51112,Merrill,Male,29,0,0,Self-employed,118.7,33.2,
+259,69673,Noah,Female,76,0,0,Govt_job,96.29,25.4,smokes
+260,71238,Randall,Male,52,1,0,Private,74.64,30.7,smokes
+261,63958,Guy,Female,42,0,0,Private,96.99,34.8,formerly smoked
+262,34511,Elliott,Female,71,0,0,Private,100.61,19.2,
+263,24892,Evelyn,Male,64,0,0,Private,97.08,31.7,
+264,1665,Sylvia,Female,79,1,0,Self-employed,174.12,24.0,never smoked
+265,29496,Scarlet,Female,39,0,0,Private,84.79,35.7,never smoked
+266,19939,Cullen,Female,46,0,0,Private,78.75,37.8,formerly smoked
+267,27832,Bell,Female,51,0,0,Private,82.93,29.7,smokes
+268,27757,Hedda,Male,31,0,0,Private,88.78,35.8,smokes
+269,31279,Ima,Male,22,0,0,Private,122.1,23.6,smokes
+270,25099,Alfonso,Male,41,0,0,Govt_job,74.81,39.7,smokes
+271,67733,Craig,Female,28,0,0,Private,183.45,40.5,smokes
+272,9201,Myles,Female,44,0,0,Self-employed,114.94,21.4,never smoked
+273,33123,Chelsea,Female,68,0,0,Self-employed,104.38,40.8,formerly smoked
+274,21713,August,Male,49,0,0,Private,102.91,24.7,
+275,22622,Patience,Male,10,0,0,children,108.79,21.0,
+276,6726,Willa,Female,31,0,0,Private,73.31,45.0,never smoked
+277,17242,Echo,Male,67,0,0,Self-employed,68.52,26.2,never smoked
+278,16380,Kyle,Male,40,0,0,Private,89.77,29.1,smokes
+279,9729,Jennifer,Male,70,0,0,Private,102.64,28.3,never smoked
+280,56974,Jeanette,Female,38,0,0,Govt_job,70.92,41.6,never smoked
+281,29933,Dexter,Female,5,0,0,children,86.11,19.0,
+282,65574,Jarrod,Female,54,0,0,Private,129.16,32.4,never smoked
+283,17019,Yoko,Female,30,0,0,Govt_job,113.85,34.0,never smoked
+284,41800,Sacha,Female,23,0,0,Private,79.35,39.4,formerly smoked
+285,7621,Unity,Female,31,0,0,Private,80.79,28.7,
+286,6855,Mia,Male,72,1,0,Self-employed,114.01,31.8,formerly smoked
+287,5374,Isabelle,Male,23,0,0,Private,93.74,31.2,never smoked
+288,56669,Anne,Male,81,0,0,Private,186.21,29.0,formerly smoked
+289,31564,Cameron,Female,25,0,0,Private,90.65,20.9,
+290,26028,Keely,Male,51,0,0,Private,98.41,32.1,never smoked
+291,53882,Tate,Male,74,1,1,Private,70.09,27.4,never smoked
+292,71808,Ingrid,Female,20,0,0,Private,127.18,31.0,
+293,56998,Talon,Female,12,0,0,children,138.06,23.1,
+294,14712,September,Male,57,0,0,Private,89.44,26.7,never smoked
+295,23094,Hyatt,Male,65,0,0,Self-employed,105.61,27.9,
+296,43134,Blossom,Female,16,0,0,Private,155.43,27.3,never smoked
+297,40622,Mallory,Female,43,0,0,Private,80.83,51.5,
+298,39383,Emma,Female,30,0,0,Private,80.19,20.4,never smoked
+299,63606,Robert,Male,29,0,0,Govt_job,60.34,29.6,formerly smoked
+300,46438,Steel,Female,54,0,0,Self-employed,79.3,30.6,formerly smoked
+301,65144,Nero,Female,57,0,0,Self-employed,98.44,33.6,
+302,545,Grady,Male,42,0,0,Private,210.48,71.9,never smoked
+303,36331,Nicholas,Male,18,0,0,Private,70.34,24.2,
+304,42359,Jemima,Male,9,0,0,children,122.22,17.7,
+305,20751,Yardley,Female,26,0,0,Private,75.29,22.6,smokes
+306,34641,Magee,Male,40,0,0,Private,100.35,28.1,never smoked
+307,15791,Xavier,Male,77,0,0,Private,193.83,26.5,never smoked
+308,68241,Hayfa,Female,15,0,0,children,126.96,28.7,
+309,67780,Lawrence,Female,76,0,0,Private,183.34,39.5,formerly smoked
+310,68275,Leila,Male,52,0,0,Private,247.69,35.1,
+311,13129,Davis,Female,55,0,0,Self-employed,76.2,27.9,never smoked
+312,60902,Wilma,Male,5,0,0,children,71.43,19.3,
+313,37629,Dai,Female,55,0,0,Private,93.36,28.4,never smoked
+314,58439,Demetrius,Male,36,0,0,Private,61.29,26.7,never smoked
+315,62936,Shelley,Male,46,0,0,Private,103.62,40.9,
+316,29010,Macy,Male,5,0,0,children,100.52,17.2,
+317,36561,Noelani,Female,39,0,0,Govt_job,191.47,28.3,never smoked
+318,44912,Keane,Male,12,0,0,children,67.06,16.1,
+319,59829,Graiden,Male,67,0,1,Private,144.1,27.6,never smoked
+320,10434,Jeremy,Female,69,0,0,Private,94.39,22.8,never smoked
+321,45238,Hiram,Female,31,0,0,children,58.26,16.5,
+322,47811,Noelle,Female,72,0,0,Self-employed,239.82,35.8,never smoked
+323,61511,Macon,Female,32,0,0,children,73.71,16.2,
+324,55424,Wyatt,Female,64,1,0,Private,88.53,24.6,never smoked
+325,36942,Mariam,Male,27,0,0,Private,114.79,32.0,
+326,61697,Jeremy,Male,25,0,0,Private,113.8,35.3,formerly smoked
+327,55138,Ivy,Female,81,0,0,Self-employed,71.91,19.2,
+328,39399,Venus,Female,32,0,0,Self-employed,65.3,40.4,never smoked
+329,17148,Wyatt,Male,57,0,0,Private,189.57,30.7,never smoked
+330,721,Mohammad,Female,52,1,0,Self-employed,114.25,24.3,formerly smoked
+331,40448,Camilla,Male,54,0,0,Private,81.26,26.4,formerly smoked
+332,58007,Zoe,Female,36,0,0,Private,87.88,34.7,smokes
+333,15095,Yardley,Male,18,0,0,Private,112.17,31.7,
+334,11960,Carson,Male,45,0,0,Private,99.97,35.6,never smoked
+335,56179,Sawyer,Male,29,0,0,Private,207.58,22.8,smokes
+336,24592,Indigo,Female,51,1,0,Private,109.16,28.0,smokes
+337,67744,Charles,Female,23,0,0,Private,74.46,35.6,formerly smoked
+338,8328,Madonna,Female,54,0,0,Private,118.51,40.6,never smoked
+339,32437,Roary,Female,54,0,0,Self-employed,107.47,29.3,formerly smoked
+340,44315,Todd,Male,18,0,0,Self-employed,182.86,21.0,
+341,68245,Ralph,Female,26,0,0,Private,59.17,20.0,
+342,25483,Neil,Male,72,0,0,Private,215.64,26.7,formerly smoked
+343,47732,Ira,Male,5,0,0,children,163.7,18.4,
+344,50118,Boris,Female,65,0,1,Private,196.36,34.5,formerly smoked
+345,55420,Xander,Female,42,0,0,Private,139.77,27.7,
+346,55709,Jasmine,Female,47,0,0,Self-employed,141.23,21.1,never smoked
+347,15311,Winter,Female,24,0,0,Private,89.99,24.4,formerly smoked
+348,53660,Ethan,Male,57,0,0,Private,108.53,19.4,smokes
+349,56553,Armando,Male,51,0,0,Private,63.61,42.3,
+350,30480,Eric,Male,48,0,0,Private,85.54,32.2,smokes
+351,31988,Dara,Female,56,0,0,Private,100.83,26.8,never smoked
+352,59807,Lois,Female,30,0,0,Private,59.82,25.4,never smoked
+353,45585,Shellie,Female,63,1,0,Private,105.95,23.5,smokes
+354,39639,Prescott,Female,46,0,0,Private,188.11,50.2,smokes
+355,52063,Alvin,Female,53,0,0,Self-employed,71.15,26.1,formerly smoked
+356,40639,Donovan,Female,48,0,0,children,60.53,17.5,
+357,31090,Maryam,Male,15,0,0,children,205.5,24.2,never smoked
+358,64174,Cole,Female,59,1,0,Private,204.86,30.8,never smoked
+359,8544,Lee,Female,24,0,0,Self-employed,115.03,23.4,never smoked
+360,27377,Odessa,Male,53,0,0,Private,79.87,30.9,never smoked
+361,3361,Georgia,Female,39,0,0,Govt_job,97.89,23.6,never smoked
+362,61408,Ryder,Male,23,0,0,Never_worked,125.26,18.7,never smoked
+363,33552,Christopher,Male,31,0,0,Private,114.32,27.7,smokes
+364,31364,Hall,Male,5,0,0,children,92.23,16.7,never smoked
+365,7446,Raven,Male,44,0,0,Private,83.51,31.2,never smoked
+366,9906,David,Female,38,0,0,children,102.34,17.0,never smoked
+367,65130,Thane,Male,40,0,0,Private,144.48,29.8,smokes
+368,27794,Zephania,Male,7,0,0,children,88.39,19.7,never smoked
+369,48993,Burke,Female,56,0,0,Private,228.08,29.1,never smoked
+370,30753,Priscilla,Male,42,0,0,Govt_job,93.79,27.2,never smoked
+371,46809,Imani,Male,48,0,0,Private,147.14,22.3,never smoked
+372,22853,Aladdin,Male,82,0,0,Self-employed,106.43,27.0,smokes
+373,12465,Mia,Female,52,0,0,Private,88.04,42.1,never smoked
+374,64849,Willa,Female,42,0,0,Private,92.2,34.2,never smoked
+375,39659,Kelsey,Female,73,0,0,Govt_job,219.53,40.9,never smoked
+376,24183,Moana,Female,55,0,0,Govt_job,75.56,29.4,smokes
+377,71533,Leilani,Male,50,0,0,Private,158.31,32.8,formerly smoked
+378,35565,Emerson,Male,43,0,0,Private,111.43,21.9,smokes
+379,34558,Georgia,Male,33,0,0,Private,219.97,39.6,never smoked
+380,42553,Kelsie,Female,80,0,0,Private,148.91,28.3,never smoked
+381,39601,Oleg,Female,33,0,0,Private,69.4,47.8,never smoked
+382,46891,Martha,Female,74,0,0,Private,68.34,39.3,
+383,38987,Yoshio,Male,65,0,1,Self-employed,58.37,28.0,smokes
+384,21886,Rogan,Female,40,0,0,Private,71.2,27.1,never smoked
+385,5353,Ezra,Male,52,0,1,Private,101.5,31.2,smokes
+386,44300,Yuri,Female,66,0,0,Govt_job,92.04,23.1,never smoked
+387,48144,Rafael,Female,20,0,0,Govt_job,73.0,20.8,never smoked
+388,46218,Arden,Female,51,0,0,Self-employed,111.15,34.1,smokes
+389,39745,Erasmus,Female,60,0,0,Self-employed,58.65,30.1,never smoked
+390,13517,Blair,Male,59,0,0,Private,100.54,35.8,never smoked
+391,36355,Patricia,Male,58,0,0,Govt_job,111.73,34.6,never smoked
+392,22678,Debra,Female,42,0,0,Govt_job,97.78,29.8,never smoked
+393,2532,Lenore,Male,28,0,0,Private,85.79,26.7,never smoked
+394,52512,Declan,Male,57,0,0,Private,98.54,30.2,never smoked
+395,3579,Channing,Female,66,0,1,Private,94.62,29.7,formerly smoked
+396,3130,Hoyt,Female,56,0,0,Private,112.43,54.6,never smoked
+397,5545,Deirdre,Male,48,0,0,Self-employed,99.67,23.3,formerly smoked
+398,63693,Kennan,Male,37,0,0,Private,67.39,35.6,never smoked
+399,34363,Louis,Female,27,0,0,Private,95.12,27.0,never smoked
+400,23650,Emerson,Male,15,0,0,children,85.06,21.6,never smoked
+401,53515,Cheryl,Male,61,0,0,Private,214.05,29.4,formerly smoked
+402,33528,Wyoming,Female,80,0,1,Self-employed,79.09,22.8,never smoked
+403,23046,Lysandra,Female,43,0,0,Self-employed,98.09,17.3,never smoked
+404,11068,Zeus,Male,53,0,0,Self-employed,76.36,29.8,never smoked
+405,62233,Cynthia,Female,70,0,0,Self-employed,98.42,36.4,formerly smoked
+406,7291,Wylie,Female,58,0,0,Private,82.01,34.7,formerly smoked
+407,27419,Montana,Female,59,0,0,Private,76.15,33.7,formerly smoked
+408,36814,Leila,Female,49,0,0,Private,56.11,28.7,smokes
+409,48265,Perry,Male,65,0,0,Govt_job,111.85,26.7,never smoked
+410,10139,Piper,Female,54,0,0,Self-employed,92.39,22.1,never smoked
+411,12662,Dorothy,Male,74,1,0,Self-employed,112.54,27.7,formerly smoked
+412,43174,Michael,Female,56,0,0,Private,63.71,40.5,formerly smoked
+413,72823,Duncan,Female,79,0,0,Private,70.35,23.0,formerly smoked
+414,30567,Henry,Male,71,1,0,Private,94.65,25.3,formerly smoked
+415,41927,Mari,Female,28,0,0,Private,64.64,22.1,never smoked
+416,54866,Oscar,Female,9,0,0,children,57.27,28.0,formerly smoked
+417,20364,Cedric,Female,4,0,0,children,107.25,12.0,formerly smoked
+418,21117,Mannix,Female,36,0,0,Self-employed,77.12,28.4,never smoked
+419,50491,Asher,Male,78,0,0,Self-employed,55.32,29.6,smokes
+420,61013,Rhonda,Male,52,0,0,Private,69.37,36.2,formerly smoked
+421,71010,Alvin,Female,80,0,0,Self-employed,57.57,22.8,never smoked
+422,23551,Isabella,Male,28,0,0,Private,87.43,55.7,formerly smoked
+423,10997,Kathleen,Female,38,0,0,Private,98.73,24.3,never smoked
+424,12738,Kamal,Male,56,0,0,Private,81.18,26.9,never smoked
+425,57772,Dominic,Female,75,0,0,Govt_job,56.23,25.3,never smoked
+426,60491,Brody,Female,78,0,0,Private,58.57,24.2,formerly smoked
+427,16615,Audrey,Male,76,1,0,Self-employed,69.61,35.3,never smoked
+428,62999,Vance,Male,10,0,0,children,59.49,18.3,formerly smoked
+429,68995,Eleanor,Female,48,1,0,Private,118.14,32.0,formerly smoked
+430,66184,Adria,Male,40,0,0,Govt_job,100.26,26.0,never smoked
+431,53010,Celeste,Male,82,0,0,Self-employed,56.75,21.0,never smoked
+432,967,Fritz,Male,61,0,1,Private,88.27,18.0,never smoked
+433,31145,Kenyon,Female,17,0,0,Private,67.81,55.7,never smoked
+434,54338,Ignatius,Female,58,0,0,Govt_job,77.46,27.6,never smoked
+435,22870,Zephania,Male,12,0,0,children,76.26,20.5,never smoked
+436,13223,Orla,Female,53,0,0,Govt_job,86.39,30.2,never smoked
+437,57523,Barclay,Female,26,0,0,Private,116.38,21.9,formerly smoked
+438,67932,Francesca,Female,48,0,0,Private,75.74,28.8,smokes
+439,10255,Rashad,Male,25,0,0,Private,92.14,36.2,never smoked
+440,68131,Fredericka,Female,27,0,0,Private,149.95,25.9,never smoked
+441,29873,Lyle,Male,31,1,0,Govt_job,92.11,20.0,never smoked
+442,54182,Hashim,Female,16,0,0,Private,74.98,21.4,never smoked
+443,61300,Fay,Male,20,0,0,Private,55.25,20.4,never smoked
+444,15274,Jael,Female,2,0,0,children,79.89,31.6,never smoked
+445,53016,Debra,Female,29,0,0,children,130.61,14.4,never smoked
+446,28848,Lev,Male,28,0,0,Private,94.26,23.7,never smoked
+447,27012,Oren,Male,32,0,0,Private,94.34,30.2,formerly smoked
+448,7745,Felix,Female,35,0,0,Private,109.03,19.5,formerly smoked
+449,20541,Mariko,Female,52,1,0,Private,81.03,32.6,never smoked
+450,5892,James,Female,55,1,0,Private,99.82,34.2,never smoked
+451,66883,Erasmus,Female,42,0,0,Self-employed,140.08,43.0,never smoked
+452,43196,Coby,Female,52,0,0,Self-employed,59.54,42.2,never smoked
+453,12593,Kitra,Female,18,0,0,Private,80.33,19.7,never smoked
+454,51514,Brennan,Female,13,0,0,children,131.51,41.7,never smoked
+455,15553,Patrick,Female,45,0,0,Private,89.21,21.6,formerly smoked
+456,45796,Flynn,Female,29,0,0,Private,91.45,24.2,never smoked
+457,31840,McKenzie,Female,12,0,0,children,90.58,19.2,never smoked
+458,58767,Rudyard,Female,37,0,0,Private,91.45,25.8,never smoked
+459,14391,Jacqueline,Female,30,0,0,Private,89.63,23.2,smokes
+460,22321,Ella,Female,44,0,0,Private,124.06,20.8,never smoked
+461,38184,Caleb,Female,79,1,0,Private,99.47,28.4,never smoked
+462,13997,Zachary,Male,38,0,0,Private,88.97,30.2,never smoked
+463,41673,Demetria,Female,45,0,0,Private,80.93,23.1,never smoked
+464,27796,Amaya,Female,66,0,0,Private,102.07,16.7,smokes
+465,18390,Elliott,Female,19,0,0,Private,91.69,39.5,never smoked
+466,63409,Gary,Female,49,0,0,Private,63.71,33.8,smokes
+467,9752,Andrew,Female,66,0,0,Govt_job,200.49,34.6,smokes
+468,72882,Maris,Male,47,0,0,Private,75.3,25.0,formerly smoked
+469,49744,Astra,Female,59,0,0,Private,240.71,43.9,formerly smoked
+470,49086,Wing,Female,23,0,0,Private,60.5,27.1,formerly smoked
+471,40866,Warren,Female,79,0,0,Self-employed,131.85,25.9,formerly smoked
+472,47523,Evan,Female,37,0,0,Self-employed,134.39,22.7,formerly smoked
+473,63561,Knox,Male,78,0,0,Private,56.18,27.1,never smoked
+474,51422,Laurel,Female,70,1,0,Private,113.64,25.6,formerly smoked
+475,56870,Drake,Female,34,0,0,Private,156.57,28.4,formerly smoked
+476,3590,Germaine,Female,28,1,0,Private,80.4,57.5,never smoked
+477,60665,Vera,Male,29,0,0,Private,59.26,35.8,smokes
+478,40791,Lee,Female,13,0,0,children,63.26,19.5,smokes
+479,54304,Alana,Female,22,0,0,Private,86.24,31.2,never smoked
+480,22485,Carl,Male,56,0,0,Private,197.1,43.6,formerly smoked
+481,18430,Mannix,Female,81,0,0,Self-employed,90.9,31.2,formerly smoked
+482,19234,Libby,Female,28,0,0,Private,84.59,23.5,smokes
+483,52454,Hakeem,Male,9,0,0,children,121.8,18.7,smokes
+484,13365,Emery,Male,50,0,0,Private,77.65,24.4,smokes
+485,60983,Ivan,Male,70,0,0,Private,64.41,29.4,smokes
+486,14615,Adara,Female,30,0,0,Private,75.19,37.0,smokes
+487,50277,Amaya,Female,51,0,0,Self-employed,67.97,29.4,smokes
+488,50811,Sierra,Male,24,0,0,Private,119.34,38.5,never smoked
+489,16575,Quemby,Male,17,0,0,Private,94.92,23.5,never smoked
+490,1246,Hakeem,Female,43,0,0,Govt_job,107.42,23.0,never smoked
+491,11176,Cullen,Male,9,0,0,children,85.02,16.3,smokes
+492,30712,Bernard,Male,50,0,0,Private,103.51,35.9,never smoked
+493,31308,Raymond,Female,49,0,0,Private,114.5,35.9,formerly smoked
+494,9612,Willow,Male,6,0,0,children,70.78,20.3,smokes
+495,3325,Xantha,Male,30,0,0,Self-employed,95.01,32.3,smokes
+496,52808,Flavia,Male,73,0,0,Private,84.11,27.9,never smoked
+497,41513,Knox,Female,20,0,0,Private,74.02,22.3,never smoked
+498,36109,Jelani,Male,42,0,0,Private,78.49,31.8,smokes
+499,53336,Flynn,Female,79,0,0,Govt_job,74.22,29.7,smokes
